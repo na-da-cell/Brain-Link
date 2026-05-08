@@ -196,7 +196,9 @@ All Firestore interactions go through `FirestoreService`, keeping screens clean 
 
 | Name | Role |
 |---|---|
-| **[Your Name]** | Flutter Developer |
+| **Ahmed Ashraf** | Flutter Developer |
+| **Nada Mohamed** | Flutter Developer |
+| **Maryam Bilal** | Flutter Developer |
 
 ---
 
